@@ -7,7 +7,7 @@ I'm Max, I'm a developer from Chile.
 * I have worked as a professor of statistics in engineering careers at the Universidad del Bío-Bío, Chile.
 * Now I'm partially working as a lecturer for Universidad San Sebastian doing workshop's in Master of Data Science.
 
-I really want to complement my professional profile. That's why I'm studying and practice to become a full stak developer. Currently I'm in a Front End boot camp with React JS 💻
+I really want to complement my professional profile. That's why I'm studying and practice to become a full stak developer 💻
 
 ### Skills
 
